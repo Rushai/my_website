@@ -11,5 +11,4 @@ Now editing to change readme branch.
 
 New edits made from git bash.
 
-Another commit due to other branch
->>>>>>> update-readme
+New commit from Github side.
