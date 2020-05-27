@@ -7,3 +7,5 @@ Commit 2
 Now editing to change readme branch.
 
 New edits made from git bash.
+
+Another commit due to other branch
